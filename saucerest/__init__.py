@@ -1,0 +1,2 @@
+NAME = "saucerest"
+VERSION = "0.0.1"
